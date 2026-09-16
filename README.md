@@ -23,10 +23,10 @@
 開啟 `index.html`，找到靠近檔案上方的這一行：
 
 ```html
-<body data-profile-name="蕭程勻">
+<body data-profile-name="Aiden Xiao">
 ```
 
-只要把 `蕭程勻` 換成新的姓名並儲存即可。請保留左右兩邊的英文雙引號。
+只要把 `Aiden Xiao` 換成新的姓名並儲存即可。請保留左右兩邊的英文雙引號。
 
 ## 修改文字與連結
 
