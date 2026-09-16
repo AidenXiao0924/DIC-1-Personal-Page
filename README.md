@@ -5,3 +5,7 @@
 > **作者**：Aiden Xiao<br>
 > **儲存庫網址**：[https://github.com/AidenXiao0924/DIC-1-Personal-Page](https://github.com/AidenXiao0924/DIC-1-Personal-Page)<br>
 > **Live Demo Page**：[https://aidenxiao0924.github.io/DIC-1-Personal-Page/](https://aidenxiao0924.github.io/DIC-1-Personal-Page/)
+
+## 網站畫面
+
+![Live Demo Snapshot](./assets/demo-preview.png)
