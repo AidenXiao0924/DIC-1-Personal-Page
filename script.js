@@ -1,7 +1,8 @@
 // 姓名集中放在 index.html 的 body 標籤上，方便初學者修改。
 const PROFILE_NAME = document.body.dataset.profileName || "請填入姓名";
 
-const nameElements = document.querySelectorAll("[data-profile-name]");
+// body 儲存姓名設定；只有實際顯示姓名的子元素需要更新文字。
+const nameElements = document.querySelectorAll("[data-profile-name]:not(body)");
 const timeElement = document.querySelector("#current-time");
 const dateElement = document.querySelector("#current-date");
 const timezoneElement = document.querySelector("#timezone-label");
